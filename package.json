@@ -1,0 +1,23 @@
+{
+  "name": "heroku-kafka-demo-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiaryio/heroku-kafka-demo-nodejs.git"
+  },
+  "keywords": [
+    "kafka",
+    "heroku"
+  ],
+  "author": "Apiary Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiaryio/heroku-kafka-demo-nodejs/issues"
+  },
+  "homepage": "https://github.com/apiaryio/heroku-kafka-demo-nodejs#readme"
+}
