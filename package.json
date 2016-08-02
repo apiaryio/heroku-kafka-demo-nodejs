@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/apiaryio/heroku-kafka-demo-nodejs/issues"
   },
-  "homepage": "https://github.com/apiaryio/heroku-kafka-demo-nodejs#readme"
+  "homepage": "https://github.com/apiaryio/heroku-kafka-demo-nodejs#readme",
+  "dependencies": {
+    "ejs": "2.5.1",
+    "express": "4.14.0",
+    "no-kafka": "2.6.0"
+  }
 }
