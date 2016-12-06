@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/apiaryio/heroku-kafka-demo-nodejs#readme",
   "dependencies": {
-    "ejs": "2.5.1",
+    "ejs": "2.5.5",
     "express": "4.14.0",
     "no-kafka": "2.6.0"
   }
